@@ -427,12 +427,13 @@ logo=("""\n
 
 
 \033[1;37m----------------------------------------------
- AUTHOR     : RATEY
- GITHUB     :   LADO
- FACEBOOK   :  RATEY BRAND
- DECODE BY  :  RATEY BRAND
- VERSION      : 0.0.0.1
-\033[1;37m-----TERO DAI KO CMD USE GAR VAGYA REXA TERO-""")
+\033[1;32m【✪】Cʀᴇᴀᴛᴇᴅ Bʏ   ✯  👑 RATRY👑   
+\033[1;32m【✪】FB Gʀᴏᴜᴘ     ✯  𝕮𝖔𝖒𝖎𝖓𝖌 𝕾𝖔𝖔𝖓... 
+\033[1;32m【✪】Oɴ Gɪᴛʜᴜʙ    ✯  EROOR-
+\033[1;32m【✪】Tᴏᴏʟ SᴛᴀᴛᴜS  ✯  \033[1;32m𝕻𝖆𝖎𝕯  
+\033[1;32m【✪】Tᴏᴏʟ Vᴇʀsɪᴏɴ ✯  1.0  
+\033[33m【✪】⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃➤"""
+\033[1;54m-----TERO DAI KO CMD USE GAR VAGYA REXA TERO-""")
 def banner():
 	print(logo)
 
