@@ -433,7 +433,7 @@ logo=("""\n
 \033[1;32m【✪】Tᴏᴏʟ SᴛᴀᴛᴜS  ✯  \033[1;32m𝕻𝖆𝖎𝕯  
 \033[1;32m【✪】Tᴏᴏʟ Vᴇʀsɪᴏɴ ✯  1.0  
 \033[33m【✪】⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃➤"""
-\033[1;54m-----TERO DAI KO CMD USE GAR VAGYA REXA TERO-""")
+\033[1;32m-----TERO DAI KO CMD USE GAR VAGYA REXA TERO-""")
 def banner():
 	print(logo)
 
